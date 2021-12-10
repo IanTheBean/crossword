@@ -1,0 +1,26 @@
+generate puzzle:
+	take random words
+	find letters in common, generate a puzzle
+
+display puzzle: number: 
+then definition
+
+┘
+┐
+┌
+└
+┼
+─
+├
+┤
+┴
+┬
+│
+
+┌───┬───┬───┐
+│ A │ A │ A │
+└───┴───┼───┤
+        │ A │
+        ├───┤
+        │ A │
+        
