@@ -24,3 +24,10 @@ then definition
         ├───┤
         │ A │
  
+TODO:
+        make it so that words that do not share letters are removed whenn generating
+        add intersections to words and make sure that words do not collide with others
+        redo the displaying alogrithm
+        make letters shared between words if there is in aintersection at that point
+        add user guessing as in python ver
+        make puzzle generation scoring and elimination to create a good puzzle
